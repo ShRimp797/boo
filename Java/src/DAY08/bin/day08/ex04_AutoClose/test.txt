@@ -1,0 +1,3 @@
+auto close
+HEllo java
+hi!
